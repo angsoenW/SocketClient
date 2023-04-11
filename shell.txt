@@ -1,0 +1,4 @@
+C:\Users\Jazel>java C:\Users\Jazel\Documents\GitHub\SocketClient\app.java djxmmx.net 17 time.nist.gov 13 tcpbin.com 4242
+"Killer keeps it honest cuz reality is conception with a weak stomach, bubbling uneasy like the bowels of hell, enough to make a black ghost turn pale..."
+         - Andre 3000 (Akshon, Yeah!)
+60045 23-04-11 06:53:41 50 0 0 298.0 UTC(NIST) *
